@@ -4,16 +4,18 @@
 Total Columns : 15
 To Predict "hours-per-week"
 
-#### Categorical Columns (9)
+###### *Categorical Columns (9)*
 
 workclass, education, marital-status, occupation, relationship, race, sex, native-country, income
 
-#### Continuous Columns (5 + 1)
+###### *Continuous Columns (5 + 1)*
 
 age, fnlwgt, education-num, capital-gain, capital-loss
 
-##### "RMSE Score"
+### LeaderBoard
+
+##### Rank : 7
 ##### Public Score - 7.33926
 ##### Private Score - 9.77219
-##### Secured 7th Place - [View Notebook](Work_Hour_Prediction_Challenge.ipynb)
+##### [View Notebook](Work_Hour_Prediction_Challenge.ipynb)
 
