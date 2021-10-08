@@ -1,7 +1,5 @@
 # Work Hour Prediction Challenge - Machine Hack
 
-### Secured 7th Place
-
 ### Information on Dataset
 Total Columns : 15
 To Predict "hours-per-week"
@@ -14,8 +12,8 @@ workclass, education, marital-status, occupation, relationship, race, sex, nativ
 
 age, fnlwgt, education-num, capital-gain, capital-loss
 
-##### RMSE Score
+##### "RMSE Score"
 ##### Public Score - 7.33926
 ##### Private Score - 9.77219
+##### Secured 7th Place - [View Notebook](Work_Hour_Prediction_Challenge.ipynb)
 
-[View Notebook](Work_Hour_Prediction_Challenge.ipynb)
