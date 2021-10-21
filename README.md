@@ -22,9 +22,11 @@ workclass, education, marital-status, occupation, relationship, race, sex, nativ
 
 age, fnlwgt, education-num, capital-gain, capital-loss
 
-Train: 18944 rows x 15 columns
-Test: 8119 rows x 14 columns 
-Target Column: “hours-per-week”
+**Train:** 18944 rows x 15 columns
+
+**Test:** 8119 rows x 14 columns 
+
+**Target Column:** “hours-per-week”
 
 -----------
 
